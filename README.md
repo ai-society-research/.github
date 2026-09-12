@@ -15,6 +15,4 @@
 - **[corpus_cluster_explorer](https://github.com/ai-society-research/corpus_cluster_explorer)** — инструмент для кластеризации текстовых корпусов.
 - **[tg_scrape_module](https://github.com/ai-society-research/tg_scrape_module)** — модуль сбора материалов из Telegram.
 
-В организации также ведётся **review-parser** — закрытый служебный репозиторий парсера отзывов RuStore с поддержкой постраничного сбора. Доступ к его материалам ограничен.
-
 Подробности о составе наборов данных, порядке их использования и работе программных инструментов приведены в README соответствующих репозиториев.
