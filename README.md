@@ -11,8 +11,8 @@
 
 ## Программные инструменты
 
-- **[ai-discourse-analyzer](https://github.com/ai-society-research/ai-discourse-analyzer)** — модуль AIDA для корпусного, тематического и эмоционального анализа текстов об ИИ. [Демонстрация работы модуля](https://frantsuzova.github.io/ai-discourse-analyzer/) представлена отдельно от итогового отчёта исследования.
-- **[corpus_cluster_explorer](https://github.com/ai-society-research/corpus_cluster_explorer)** — инструмент для изучения кластеров текстового корпуса.
+- **[ai-discourse-analyzer](https://github.com/ai-society-research/ai-discourse-analyzer)** — модуль AIDA, разработанный в рамкох данного проекта и предназначенный для работы с текстовыми корпусами: тематическая кластеризация, извлечение биграмм, гибридная модель анализа тональности. [Демонстрация работы модуля](https://frantsuzova.github.io/ai-discourse-analyzer/) представлена отдельно от итогового отчёта исследования.
+- **[corpus_cluster_explorer](https://github.com/ai-society-research/corpus_cluster_explorer)** — инструмент для кластеризации текстовых корпусов.
 - **[tg_scrape_module](https://github.com/ai-society-research/tg_scrape_module)** — модуль сбора материалов из Telegram.
 
 В организации также ведётся **review-parser** — закрытый служебный репозиторий парсера отзывов RuStore с поддержкой постраничного сбора. Доступ к его материалам ограничен.
